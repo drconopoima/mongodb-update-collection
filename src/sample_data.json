@@ -1,0 +1,13 @@
+[{
+    "title": "Sample Title",
+    "image": "https://url-of-sample-image.test",
+    "address": "Sample Address",
+    "price": 1.5,
+    "rating": 1
+}, {
+    "title": "Sample Title 2",
+    "image": "https://url-of-sample-image-2.test",
+    "address": "Sample Address 2",
+    "price": 2.5,
+    "rating": 1
+}]
