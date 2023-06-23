@@ -17,6 +17,6 @@
   "author": "Luis Díaz",
   "license": "Apache-2.0",
   "dependencies": {
-    "mongodb": "^3.5.4"
+    "mongodb": "^3.7.4"
   }
 }
